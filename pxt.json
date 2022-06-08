@@ -4,7 +4,7 @@
     "description": "PH2.0传感器",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
