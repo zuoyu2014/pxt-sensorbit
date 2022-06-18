@@ -877,7 +877,6 @@ namespace sensors {
    }
 
    let initialized = false
-   //let neoStrip: neopixel.Strip;
    let emRGBLight: EMRGBLight.EmakefunRGBLight;
    let board_emRGBLight: EMRGBLight.EmakefunRGBLight;
    let matBuf = pins.createBuffer(17);
